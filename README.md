@@ -1,8 +1,11 @@
 - 👋 Hi there, I’m Abela-ade
 - 👀 I’m interested in Full-Stack Web-development and software development
- -HTML   -CSS   -JAVASCRIPT    -PYTHON(django)
+- HTML        
+- CSS          
+- JAVASCRIPT   -node.js -Express.js   
+- PYTHON(django)
  
--🌱 I’m currently learning on javascript and python
+- 🌱 I’m currently learning on javascript and python
 
 
 <!---
